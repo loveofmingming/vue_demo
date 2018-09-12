@@ -1,0 +1,50 @@
+1、首页home
+
+轮播图  home.focusList
+品牌制造商直供 home.tagList
+新品首发 home.newItemList
+人气推荐，毫无精选 home.popularItemList
+福利社 home.saleIndexVO
+专题精选 home.topicList
+好物 home.headCateList 对应 cateList
+
+0居家
+1配件
+2服装
+3电器
+4洗护
+5饮食
+6餐厨
+7婴童
+8文体
+9特色区
+
+2、识物  topic
+
+轮播 topic.banner
+小轮播 topic.column
+为你推荐 topic.recommend
+十点一刻轮播 topic.tenfifteen
+严选臻品 topic.zhen
+严选look topic.yxLook
+更多精彩 topic.yxWeek
+
+3、分类 category   categoryL1List
+
+推荐专区 0
+夏季专区 1
+个性专区 2
+居家 3
+配件 4
+服装 5
+电器 6
+洗护 7
+饮食 8
+餐厨 9
+婴童 10
+文体 11
+特色区 12
+ 
+
+
+ 
